@@ -1,0 +1,42 @@
+.top{
+  height: 30px;
+  justify-content: flex-end;
+  align-items: center;
+}
+.sony-logo{
+  height: 15px;
+}
+
+/* header */
+/* header{
+  z-index: 999;
+
+}
+.dm-head-list li{
+  padding-left: 8px;
+} */
+/* fine header */
+
+
+/* jumbo */
+.dm-jumbo{
+  background-image: url(img/jumbo-bg.png);
+  background-position: center;
+  height: 500px;
+  background-position: top;
+  background-size: cover;
+  overflow-y: hidden;
+}
+.ret-banner{
+  height: 40px;
+}
+.dm-jumbo-content{
+  color: white;
+  flex-direction: column;
+  justify-content: end;
+  padding-bottom: 50px;
+}
+.dm-jumbo-content h1{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}

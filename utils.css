@@ -1,0 +1,29 @@
+.debug{
+  background-color: rgba(255, 0, 0, 0.3);
+  border: 1px solid black;
+}
+.d-flex{
+  display: flex;
+}
+
+/* colori sfondo */
+.bg-black{
+  background-color: black;
+}
+/* /colori sfondo */
+
+
+/* altezze */
+.h100{
+  height: 100px;
+}
+.h300{
+  height: 300px;
+}
+.h500{
+  height: 500px;
+}
+.h700{
+  height: 700px;
+}
+/* /altezze */
