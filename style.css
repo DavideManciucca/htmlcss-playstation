@@ -35,8 +35,38 @@
   flex-direction: column;
   justify-content: end;
   padding-bottom: 50px;
+  padding-left: 30px;
 }
 .dm-jumbo-content h1{
   padding-top: 30px;
   padding-bottom: 30px;
+}
+/* jumbo */
+
+
+/* card */
+.dm-card{
+  margin-top: 40px;
+}
+.img-card{
+  height: 100px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.img-card:hover{
+transform: translateY(-10px);  
+transition: 1s;
+}
+/* /card */
+
+/* title */
+.dm-title{
+  margin-top: 80px;
+}
+.dm-title h5{
+  color: cornflowerblue;
+}
+.dm-title h1{
+  padding-bottom: 25px;
 }
