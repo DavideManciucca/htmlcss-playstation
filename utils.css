@@ -10,6 +10,9 @@
 .bg-black{
   background-color: black;
 }
+.bg-color-rgb{
+  background-color: rgb(49, 44, 44);
+}
 /* /colori sfondo */
 
 
@@ -27,3 +30,11 @@
   height: 700px;
 }
 /* /altezze */
+
+/* spazio */
+.p-top{
+  padding-top: 10px;
+}
+.m-top{
+  margin-top: 10px;
+}

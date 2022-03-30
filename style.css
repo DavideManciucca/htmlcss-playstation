@@ -44,7 +44,7 @@
 /* jumbo */
 
 
-/* card */
+/* card giochi */
 .dm-card{
   margin-top: 40px;
 }
@@ -52,13 +52,14 @@
   height: 100px;
   cursor: pointer;
   border-radius: 20px;
+  margin-top: 10px;
 }
 
 .img-card:hover{
 transform: translateY(-10px);  
 transition: 1s;
 }
-/* /card */
+/* /card giochi*/
 
 /* title */
 .dm-title{
@@ -70,3 +71,92 @@ transition: 1s;
 .dm-title h1{
   padding-bottom: 25px;
 }
+
+/* /title */
+
+/* console */
+.card-gadget{
+  margin-bottom: 30px;
+}
+.dm-container-console{
+  margin-top: 150px;
+  height: 550px;
+  margin-bottom: 100px;
+}
+.d-flex.middle{
+  flex-direction: column;
+  justify-content: center;
+
+}
+.dm-play-img{
+  width: 100%;
+  /* height: 550px; */
+  height: 100%;
+}
+
+/* /console da finire */
+
+
+/* card gadget */
+
+.card-gadget-img{
+  height: 125px;
+}
+.opacity{
+  opacity: 0.5;
+  cursor: pointer;
+}
+.opacity:hover{
+  opacity: 1;
+  transition: 0.5s;
+}
+
+/* /card gadget */
+
+
+/* secondo jumbo */
+.dm-second-jumbo{
+  height: 500px;
+  background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+  background-size: cover;
+}
+.col-game{
+  margin-bottom: 40px;
+}
+.dm-cont-game-card{
+  color: white;
+}
+.dm-second-jumbo-logo{
+  height: 100px;
+}
+.dm-second-jumbo-content{
+  color: white;
+  margin-top: 55px;
+}
+.dm-game-card{
+  height: 150px;
+}
+
+
+/* nuove uscite */
+.dm-cont-game-card{
+  padding-top: 10px;
+}
+/* /nuove uscite */
+
+
+/* esplora */
+.dm-cont-esplora{
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.dm-esplora-img{
+  height: 200px;
+}
+/* /esplora */
+
+/* banner */
+.dm-cont-banner{
+  background-image: url(img/ps-plus-april-monthly-games-featured-image-block.png);
+}
+/* /banner */

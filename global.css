@@ -1,3 +1,7 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 ul li{
   display: inline-block;
 }
@@ -14,3 +18,18 @@ a{
   padding-left: 8; */
   
 }
+.active{
+  border-bottom: 2px solid blue;
+}
+
+/* dimensioni fontawesome */
+.fa-solid.fa-trademark{
+  font-size: 8px;
+  transform: translateY(-5px);
+}
+.fa-regular.fa-registered{
+  font-size: 8px;
+  transform: translateY(-18px);
+}
+/* /dimensioni fontawesome */
+
