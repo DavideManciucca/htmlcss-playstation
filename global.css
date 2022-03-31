@@ -5,6 +5,9 @@
 ul li{
   display: inline-block;
 }
+.bg-footer ul li{
+  display: block;
+}
 a{
   text-decoration: none;
   color: black;

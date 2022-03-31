@@ -155,8 +155,82 @@ transition: 1s;
 }
 /* /esplora */
 
-/* banner */
-.dm-cont-banner{
-  background-image: url(img/ps-plus-april-monthly-games-featured-image-block.png);
+/* banner a scomparsa */
+.dm-col-banner{
+ height: 300px;
 }
-/* /banner */
+
+.dm-ps-plus{
+  height: 70px;
+  /* padding-bottom: 10px; */
+}
+/* /banner a scomparsa */
+
+/* sezione sconto */
+.dm-margin{
+  margin-bottom: 60px;
+}
+.dm-cont-sconti{
+  margin-top: 50px;
+}
+.dm-discount-img{
+  height: 350px;
+  
+}
+.dm-cont-sconti p{
+  color: gray;
+}
+.dm-col-sconti{
+  margin-bottom: 10px;
+}
+/* /sezione sconto */
+
+/* secondo banner a scomparsa */
+.dm-discount{
+  margin-top: 30px;
+  color: white;
+}
+.dm-psnow{
+  height: 85px;
+}
+.dm-scnbanner{
+  height: 400px;
+}
+
+/* /secondo banner a scomparsa */
+
+/* social */
+.dm-box-social{
+   margin-top: 30px;
+}
+.dm-social-cont {
+  width: 40%;
+}
+.dm-social-col{
+  margin-bottom: 30px;
+}
+
+.dm-social-icon{
+  height: 100px;
+}
+/* /social */
+
+/* footer */
+.dm-footer{
+  padding-top: 50px;
+  color: white;
+}
+.dm-footer li a{
+color: white;
+}
+.dm-f-link{
+  color: white;
+  text-decoration: underline;
+}
+.dm-globe{
+  height: 12px;
+}
+/* .dm-bottom{
+  height: 200px;
+} */
+/* /footer */

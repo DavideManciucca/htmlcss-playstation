@@ -10,8 +10,17 @@
 .bg-black{
   background-color: black;
 }
+.bg-gray{
+  background-color: rgb(170, 162, 162);
+}
 .bg-color-rgb{
   background-color: rgb(49, 44, 44);
+}
+.bg-blue{
+  background-color: rgb(10, 10, 80);
+}
+.bg-footer{
+ background-color:rgb(17, 39, 136);
 }
 /* /colori sfondo */
 
@@ -23,6 +32,9 @@
 .h300{
   height: 300px;
 }
+.h400{
+  height: 400px;
+}
 .h500{
   height: 500px;
 }
@@ -32,9 +44,19 @@
 /* /altezze */
 
 /* spazio */
+
+.dm-margin{
+  margin-bottom: 60px;
+}
+.dm-margin45{
+  margin-top: 45px;
+}
 .p-top{
   padding-top: 10px;
 }
 .m-top{
   margin-top: 10px;
+}
+.m-top20{
+  margin-top: 20px;
 }
